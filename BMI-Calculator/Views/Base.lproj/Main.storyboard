@@ -90,7 +90,6 @@
                                         <constraints>
                                             <constraint firstAttribute="height" constant="51" id="gKe-E8-Zd7"/>
                                         </constraints>
-                                        <color key="tintColor" red="0.96078431369999995" green="0.25882352939999997" blue="0.56862745100000001" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                         <state key="normal" title="Button"/>
                                         <buttonConfiguration key="configuration" style="filled" title="CALCULATE">
                                             <fontDescription key="titleFontDescription" type="system" weight="semibold" pointSize="20"/>
